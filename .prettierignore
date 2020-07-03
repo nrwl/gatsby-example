@@ -2,3 +2,7 @@
 
 /dist
 /coverage
+
+/apps/myblog/node_modules
+/apps/myblog/public
+/apps/myblog/.cache
